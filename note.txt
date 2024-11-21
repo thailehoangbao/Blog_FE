@@ -1,0 +1,13 @@
+npm i react-router-dom
+npm i axios
+npm i react-toastify
+npm i react-spinners
+npm i redux react-redux
+
+npm i react-bootstrap
+
+npm i react-hook-form
+
+npm i moment
+
+npm i --save @ckeditor/ckeditor5-react @ckeditor/ckeditor5-build-classic
